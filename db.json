@@ -1,0 +1,145 @@
+{
+  "cadastro_comercio": [
+    {
+      "id": 1,
+      "nome_empresa": "lanchonelio",
+      "imagem": "./assets/imagens/logo/*"
+    }
+  ],
+  "perfils": [
+    {
+      "id": 1,
+      "nome": "guilherme",
+      "cpf": null,
+      "email": "guilherme@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "nome": "marcello",
+      "cpf": null,
+      "email": "marcello@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": 3,
+      "nome": "ignacinho",
+      "cpf": null,
+      "email": "ignacinho@gmail.com",
+      "senha": "123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 2,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 3,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 4,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 5,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 6,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 7,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 8,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    },
+    {
+      "id": 9,
+      "cod_produto": "001_bebida",
+      "nome_produto": "coca-cola",
+      "descricao": "refrigerante de lata sabor cola de 350ml",
+      "categoria": "bebida",
+      "foto_produto": "",
+      "valor": 5.01,
+      "quantidade": 10,
+      "indicador": true
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "nro_pedido": 10,
+      "quantidade_produto": 1,
+      "valor_produto": 5.01,
+      "status_pedido": false,
+      "data_hora": "2022-11-22  10:59",
+      "produto_id": 1,
+      "perfil_id": 1
+    }
+  ]
+}
